@@ -1,1 +1,3 @@
-# rgb_ir_dataset
+# RGB-IR dataset for 3D detection
+
+
